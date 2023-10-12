@@ -1,4 +1,4 @@
-package edu.julia.primeirasemana.edu.julia.primeirasemana;
+package edu.julia;
 public class BoletimEstudantil {
     public static void main(String[] args) {
         
@@ -11,4 +11,4 @@ public class BoletimEstudantil {
                     System.out.println("APROVADO");
     
     }
-}
+
