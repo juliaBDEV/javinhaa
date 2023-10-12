@@ -2,9 +2,9 @@ package edu.julia;
 
 public class Operadores {
 
-   public static void main(String{}args)
+   public static void main(String[] args){
 
-   {
+   
       int a, b;
       a = 5;
       b = 6;
@@ -19,9 +19,5 @@ public class Operadores {
 
    }
 
-   @Override
-   public String toString() {
-      return "Operadores []";
-   }
 
 }
