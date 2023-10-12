@@ -1,5 +1,8 @@
 package edu.julia;
 public class BoletimEstudantil {
+    /**
+     * @param args
+     */
     public static void main(String[] args) {
         
      int mediaFinal = 6;
@@ -12,3 +15,4 @@ public class BoletimEstudantil {
     
     }
 
+}
